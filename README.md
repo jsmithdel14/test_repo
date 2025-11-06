@@ -2,3 +2,5 @@
 This is a repo used to add commit messages to for another project's use
 
 A random weather script has been added for testing purposes.
+
+I added a test file aswell!
